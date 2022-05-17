@@ -198,8 +198,11 @@ public class Ball : MonoBehaviour
  ```
  
  ## Output:
+ 
+ 
+![pingpong](https://user-images.githubusercontent.com/75237886/168736402-052bf760-a424-4b68-b79e-2335015a70c1.jpg)
 
- ![Screenshot (51)](https://user-images.githubusercontent.com/75235488/168601649-d48cfe58-0705-4927-b42b-d48ec54b8fbb.png)
+
 
  
  ## Result:
